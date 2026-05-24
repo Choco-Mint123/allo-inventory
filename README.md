@@ -4,7 +4,7 @@ A Next.js app for inventory reservations. Built for the Allo engineering take-ho
 
 ## Live Demo
 
-> [your-app.vercel.app] — update this after deploying
+> (https://allo-inventory-57lz.vercel.app/)
 
 ---
 
